@@ -1,0 +1,19 @@
+h2.intro {
+  color: green;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p.intro {
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic
+}
+
+img.intro {
+  width: 100%;
+  height: 300px;
+}
+
+h1.title {
+  text-align: center;
+}
